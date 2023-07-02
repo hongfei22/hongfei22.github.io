@@ -15,13 +15,13 @@ main {
 }
 
 a, a:hover {
-    color: #64b2b6;
+    color: #050505;
 }
 
 h2 {
     font-size: 20px;
     font-weight: 500;
-    color: #64b2b6;
+    color: #050505;
 }
 
 .left-side {
@@ -57,7 +57,7 @@ h2 {
 
 .btn-cv:hover {
     color: #fff;
-    background-color: #64b2b6;
+    background-color: #050505;
 }
 
 .btn:focus, .btn:active {
@@ -94,7 +94,7 @@ section {
 }
 
 .company, .school-name{
-    color: #71c9ce;
+    color: #050505;
     font-size: 15px;
     font-weight: 500;
     margin-bottom: 0px;
@@ -103,7 +103,7 @@ section {
 .time {
     font-size: 15px;
     font-weight: 500;
-    color: #71c9ce;
+    color: #050505;
 }
 
 .job-title, .school-title {
@@ -117,7 +117,7 @@ section {
 }
 
 .honors h3{
-    color: #71c9ce;
+    color: #050505;
     font-size: 15px;
     font-weight: 500;
     margin-bottom: 0px;
