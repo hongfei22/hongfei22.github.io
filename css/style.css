@@ -82,6 +82,11 @@ h2 {
 section {
     padding: 20px;
     border-bottom: 1px solid #ddd;
+
+
+    
+    font-size: 12px;
+    font-weight: 500;
 }
 
 .section-title {
