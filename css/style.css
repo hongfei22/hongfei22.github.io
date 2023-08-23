@@ -143,13 +143,13 @@ footer {
     padding: 30px;
 }
 
-@media (max-width: 991.98px) {
+@media (max-width: 600px) {
     .right-side {
         border-top: 1px solid #ddd;
     }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 600px) {
     .left-side {
         border-right: 1px solid #ddd;
     }
